@@ -1,0 +1,9 @@
+<map id="PNGraphicsView" name="PNGraphicsView">
+<area shape="rect" id="node3" href="$d3/dfa/class_i_edge_renderer.html" title="IEdgeRenderer\&lt; IPNBaseData\l::IPNBaseDataPtr, IPNBaseData\l::IPNBaseDataPtr, IPNBaseData\l::IPNBaseDataPtr, EdgeCoords \&gt;" alt="" coords="273,29,489,99"/>
+<area shape="rect" id="node4" href="$d3/d66/class_p_n_graphical_layout.html" title="PNGraphicalLayout stores graphical representation of PetriNet elements and PeriNet. " alt="" coords="637,137,771,164"/>
+<area shape="rect" id="node5" href="$db/d3b/class_v_t_mine_petri_net.html" title="Special PetriNet that will be used in VTMine framework. " alt="" coords="325,124,438,151"/>
+<area shape="rect" id="node6" href="$df/d13/classxi_1_1_petri_net_1_1_petri_net.html" title="xi::PetriNet::PetriNet\l\&lt; IPNBaseData::IPNBaseDataPtr,\l IPNBaseData::IPNBaseDataPtr,\l IPNBaseData::IPNBaseDataPtr \&gt;" alt="" coords="5,102,224,173"/>
+<area shape="rect" id="node7" href="$d1/d27/class_i_transition_renderer.html" title="ITransitionRenderer\l\&lt; IPNBaseData::IPNBaseData\lPtr, QRectF \&gt;" alt="" coords="282,175,481,231"/>
+<area shape="rect" id="node8" href="$dd/dce/class_i_position_renderer.html" title="IPositionRenderer\&lt;\l IPNBaseData::IPNBaseDataPtr,\l QRectF \&gt;" alt="" coords="276,255,487,311"/>
+<area shape="rect" id="node9" href="$d2/d49/class_i_v_t_mine_p_n_renderer_1_1_i_edge_gr_item.html" title="Interface of Transition graphical representation. " alt="" coords="631,258,777,299"/>
+</map>

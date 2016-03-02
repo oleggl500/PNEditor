@@ -1,0 +1,6 @@
+<map id="PNRenderersManager" name="PNRenderersManager">
+<area shape="rect" id="node2" href="$d8/dd2/class_i_v_t_mine_p_n_renderer.html" title="Special interface of PetriNet renderer that will be used in VTMine framework. " alt="" coords="271,100,409,127"/>
+<area shape="rect" id="node3" href="$dd/dce/class_i_position_renderer.html" title="IPositionRenderer\&lt;\l IPNBaseData::IPNBaseDataPtr,\l QRectF \&gt;" alt="" coords="8,5,219,61"/>
+<area shape="rect" id="node4" href="$d1/d27/class_i_transition_renderer.html" title="ITransitionRenderer\l\&lt; IPNBaseData::IPNBaseData\lPtr, QRectF \&gt;" alt="" coords="14,85,213,141"/>
+<area shape="rect" id="node5" href="$d3/dfa/class_i_edge_renderer.html" title="IEdgeRenderer\&lt; IPNBaseData\l::IPNBaseDataPtr, IPNBaseData\l::IPNBaseDataPtr, IPNBaseData\l::IPNBaseDataPtr, EdgeCoords \&gt;" alt="" coords="5,166,221,237"/>
+</map>

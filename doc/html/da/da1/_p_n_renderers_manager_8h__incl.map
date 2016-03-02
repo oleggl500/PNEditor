@@ -1,0 +1,8 @@
+<map id="C:/Oleg/qt/PNEditor10/PNEditor10/PNRenderersManager.h" name="C:/Oleg/qt/PNEditor10/PNEditor10/PNRenderersManager.h">
+<area shape="rect" id="node2" href="$d9/d75/_p_n_renderer_default_impl_8h.html" title="Contains PNRendererDefaultImpl implementation. " alt="" coords="367,95,534,121"/>
+<area shape="rect" id="node3" href="$db/d98/_v_t_mine_petri_net_8h.html" title="Contains type definitions for special PetriNet that will be used in VTMine framework. " alt="" coords="294,244,418,271"/>
+<area shape="rect" id="node15" href="$d6/d25/_i_v_t_mine_p_n_renderer_8h.html" title="Contains PetriNet renderer interface that will be used in VTMine framework. " alt="" coords="227,169,378,196"/>
+<area shape="rect" id="node4" href="$dd/d1a/_petri_net_8h.html" title="Contains default implementation of PetriNet and its components. " alt="" coords="325,319,405,345"/>
+<area shape="rect" id="node13" href="$d4/de6/_i_p_n_base_data_8h.html" title="Contains interface and default implementation of PetriNet base data. " alt="" coords="190,319,301,345"/>
+<area shape="rect" id="node16" href="$d1/d79/_renderers_interfaces_8h.html" title="Contains interfaces of renderers. " alt="" coords="467,244,615,271"/>
+</map>

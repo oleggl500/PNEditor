@@ -1,0 +1,13 @@
+<map id="C:/Oleg/qt/PNEditor10/PNEditor10/PetriNet.h" name="C:/Oleg/qt/PNEditor10/PNEditor10/PetriNet.h">
+<area shape="rect" id="node2" href="$d1/d79/_renderers_interfaces_8h.html" title="Contains interfaces of renderers. " alt="" coords="353,95,576,136"/>
+<area shape="rect" id="node11" href="$db/d98/_v_t_mine_petri_net_8h.html" title="Contains type definitions for special PetriNet that will be used in VTMine framework. " alt="" coords="600,95,799,136"/>
+<area shape="rect" id="node3" href="$d6/d25/_i_v_t_mine_p_n_renderer_8h.html" title="Contains PetriNet renderer interface that will be used in VTMine framework. " alt="" coords="399,184,623,225"/>
+<area shape="rect" id="node4" href="$d6/d28/_p_n_graphical_layout_8h.html" title="Contains implementation of PNGraphicalLayout. " alt="" coords="165,281,383,322"/>
+<area shape="rect" id="node8" href="$d9/d75/_p_n_renderer_default_impl_8h.html" title="Contains PNRendererDefaultImpl implementation. " alt="" coords="408,273,615,329"/>
+<area shape="rect" id="node10" href="$dd/d9e/_p_n_renderer_with_log_data_8h.html" title="Contains PNRendererWithLogData implementation. " alt="" coords="639,273,853,329"/>
+<area shape="rect" id="node5" href="$d8/dff/_p_n_graphics_view_8h.html" title="Contains implementation of PNGraphicsView. " alt="" coords="245,385,450,426"/>
+<area shape="rect" id="node7" href="$d0/d46/_p_n_graphical_layouts_manager_8h.html" title="Contains PNGraphicalLayoutsManager. " alt="" coords="5,377,220,433"/>
+<area shape="rect" id="node6" href="$d9/db7/_p_n_editor_8h.html" title="Contains implementation of PNEditor. " alt="" coords="512,481,671,523"/>
+<area shape="rect" id="node9" href="$d9/dd1/_p_n_renderers_manager_8h.html" title="Contains PNRenderersManager. " alt="" coords="474,385,709,426"/>
+<area shape="rect" id="node12" href="$d3/d1b/_petri_nets_manager_8h.html" title="Contains PetriNetsManager. " alt="" coords="775,184,986,225"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PNGraphicalLayout" name="PNGraphicalLayout">
+<area shape="rect" id="node2" href="$db/d3b/class_v_t_mine_petri_net.html" title="Special PetriNet that will be used in VTMine framework. " alt="" coords="325,27,438,54"/>
+<area shape="rect" id="node3" href="$df/d13/classxi_1_1_petri_net_1_1_petri_net.html" title="xi::PetriNet::PetriNet\l\&lt; IPNBaseData::IPNBaseDataPtr,\l IPNBaseData::IPNBaseDataPtr,\l IPNBaseData::IPNBaseDataPtr \&gt;" alt="" coords="5,5,224,76"/>
+<area shape="rect" id="node4" href="$d1/d27/class_i_transition_renderer.html" title="ITransitionRenderer\l\&lt; IPNBaseData::IPNBaseData\lPtr, QRectF \&gt;" alt="" coords="282,78,481,134"/>
+<area shape="rect" id="node5" href="$dd/dce/class_i_position_renderer.html" title="IPositionRenderer\&lt;\l IPNBaseData::IPNBaseDataPtr,\l QRectF \&gt;" alt="" coords="276,158,487,214"/>
+<area shape="rect" id="node6" href="$d3/dfa/class_i_edge_renderer.html" title="IEdgeRenderer\&lt; IPNBaseData\l::IPNBaseDataPtr, IPNBaseData\l::IPNBaseDataPtr, IPNBaseData\l::IPNBaseDataPtr, EdgeCoords \&gt;" alt="" coords="273,239,489,309"/>
+</map>
